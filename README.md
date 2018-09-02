@@ -30,3 +30,8 @@ Each of the above values are used as follows:
 
 ## How-to write tests
 tbd
+
+## TO-DO
+Works: copying his setup files (config.ini, tests/tests_asgt10.json) and then modifying them.
+- Seeing if you can run it on last semester's asgt10 (the linear search binary search one).  
+-Try to get it to work with the (lightly modified) credit card checksum assignment from the start of last semester.
